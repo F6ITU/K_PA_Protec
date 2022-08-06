@@ -9,11 +9,11 @@ The protection card ensures the physical measurements of the amplifier (VSWR, Po
 For more information, please refer to the Aries documentation
 
 
-This map was originally developed by Kjell LA2NI in September 2021, with UltiBoard EDA. This repository is a « bug for bug » clone of the original Protection Board using the Opensource Kicad EDA. 
+This board was originally developed in September 2021 by Kjell LA2NI , with UltiBoard EDA. This repository is a « bug for bug » clone of the original Protection Board using the Opensource Kicad EDA. 
 
-This port is placed under the CERN Open source Licence.
+This port is placed under the CERN Open source/ Open hardware Licence.
 
-The original work is protected under the TAPR Open Hardware licence
+The original work is protected by the TAPR Open Hardware licence
 
 Kicad is an Opensource EDA software maintained by the European Reseach Center CERN (Conseil européen pour la recherche nucléaire)
 
