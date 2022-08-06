@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "yaaj_dcdc_stepdown_lm2596")(type "Legacy")(uri "C:/Users/marco/Documents/KiCad/Lib_Custom/libraries/Step_down/yaaj_dcdc_stepdown_lm2596.lib")(options "")(descr ""))
+  (lib (name "74hc21")(type "KiCad")(uri "C:/Users/marco/Documents/KiCad/Lib_Custom/libraries/74HC21/74hc21.kicad_sym")(options "")(descr ""))
+  (lib (name "RotaryEncoder_Dual_Alps_EC11E-Switch_Vertical_H20mm")(type "KiCad")(uri "${KIPRJMOD}/libs/Lib/RotaryEncoder_Dual_Alps_EC11E-Switch_Vertical_H20mm/RotaryEncoder_Dual_Alps_EC11E-Switch_Vertical_H20mm.kicad_sym")(options "")(descr ""))
+)

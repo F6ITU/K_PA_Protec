@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Step_down")(type "KiCad")(uri "${KIPRJMOD}/libs/Mod/Step_down")(options "")(descr ""))
+  (lib (name "K_PA_Protec")(type "KiCad")(uri "${KIPRJMOD}/temp mod")(options "")(descr ""))
+  (lib (name "RotaryEncoder_Dual_Alps_EC11E-Switch_Vertical_H20mm")(type "KiCad")(uri "${KIPRJMOD}/libs/Mod/RotaryEncoder_Dual_Alps_EC11E-Switch_Vertical_H20mm.pretty")(options "")(descr ""))
+  (lib (name "Mod")(type "KiCad")(uri "${KIPRJMOD}/libs/Mod")(options "")(descr ""))
+)
