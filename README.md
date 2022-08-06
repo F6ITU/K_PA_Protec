@@ -2,7 +2,18 @@
 
 OpenHPSDR P.A. Protection board by LA2NI (Munin 400)
 
-This protection board is part of a set consisting of a 400 W LD-Mos based RF power amplifier (Munin 400), a medium power (600 or 1500 W) Zolotarev low pass filter, an Automatic Antenna Tuner (ATU) nickname « Aries » and a 4 port antenna switch.
+This protection board is part of a set consisting of a 400 W LD-Mos based RF power amplifier (Munin 400), 
+a medium power (600 or 1500 W) Zolotarev low pass filter, an Automatic Antenna Tuner (ATU) nickname « Aries » 
+and a 4 port antenna switch.
+
+All these developments are the work of Kjell Karsten LA2NI and Laurence Barker G8NJJ.
+
+This original work can be downloaded from 
+
+https://github.com/LA2NI/
+
+
+https://github.com/laurencebarker
 
 The protection card ensures the physical measurements of the amplifier (VSWR, Power, Voltage, Current) and the shutdown of this amplifier in case of issues detected either by Aries (too high VSWR) or by any other sensor (temperature, voltage, current). It is used between Aries and Munin 400. 
 
