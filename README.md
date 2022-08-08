@@ -5,8 +5,7 @@ OpenHPSDR P.A. Protection board by LA2NI (Munin 400)
 
 https://github.com/F6ITU/K_PA_Protec/blob/main/K_PA_Protec_down.png
 
-
-[[File:K_PA_Protec/blob/main/K_PA_Protec_down.png|400px|left|thumb|commentaire]]
+![La carte de protection, périphérique de l'ATU Aries ](https://github.com/F6ITU/K_PA_Protec/blob/main/K_PA_Protec_down.png)
 
 
 This protection board is part of a set consisting of a 400 W LD-Mos based RF power amplifier (Munin 400), 
