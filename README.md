@@ -2,6 +2,13 @@
 
 OpenHPSDR P.A. Protection board by LA2NI (Munin 400)
 
+
+https://github.com/F6ITU/K_PA_Protec/blob/main/K_PA_Protec_down.png
+
+
+[[File:K_PA_Protec/blob/main/K_PA_Protec_down.png|400px|left|thumb|commentaire]]
+
+
 This protection board is part of a set consisting of a 400 W LD-Mos based RF power amplifier (Munin 400), 
 a medium power (600 or 1500 W) Zolotarev low pass filter, an Automatic Antenna Tuner (ATU) nickname « Aries » 
 and a 4 port antenna switch.
