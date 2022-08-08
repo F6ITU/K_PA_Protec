@@ -3,8 +3,6 @@
 OpenHPSDR P.A. Protection board by LA2NI (Munin 400)
 
 
-https://github.com/F6ITU/K_PA_Protec/blob/main/K_PA_Protec_down.png
-
 ![La carte de protection, périphérique de l'ATU Aries ](https://github.com/F6ITU/K_PA_Protec/blob/main/K_PA_Protec_down.png)
 
 
