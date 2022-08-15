@@ -28,7 +28,7 @@ For more information, please refer to the Aries documentation (in the G8NJJ gith
 This board was originally developed in September 2021 by Kjell LA2NI , with UltiBoard EDA. This repository is a « bug for bug » clone of the original Protection Board using the Opensource 
 Kicad EDA. All these KiCad files are, consequently, the intellectual property of Kjell LA2NI.
 
-This port is placed under the CERN Open source/ Open hardware Licence.
+This portage (convertion/translation) is placed under the CERN Open source/ Open hardware Licence.
 
 Kicad is an Opensource EDA software maintained by the European Reseach Center CERN (Conseil européen pour la recherche nucléaire)
 

@@ -3788,8 +3788,8 @@
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 60907658-a66e-46ea-b36e-4dde1f86fdd5)
   )
-  (text "Caution : \nAn optional Nextion display \nis piggy-back mounted on\nthe protection board\n\nFrontplate to board distance \nis 15 mm, due to the encoder shaft length \n"
-    (at 156.21 62.865 0)
+  (text "Caution : \nAn optional Nextion display \nis piggy-back mounted on\nthe protection board\n\nFrontplate to board distance \nis 15 mm or less, due to the encoder shaft length \n"
+    (at 156.845 69.215 0)
     (effects (font (size 2.5 2.5) (thickness 0.5) bold) (justify left bottom))
     (uuid 64d826b2-9e6b-4441-bc4c-d75e270eff8d)
   )
@@ -3804,11 +3804,6 @@
   (text "To Antenna board\n" (at 284.48 113.665 90)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 82c837a0-b974-4319-a647-4189f99a6015)
-  )
-  (text "vérifier empreinte inductance choke\n\nvérifier empreinte trimmers 1k\n\nvérifier C3 C11 C24"
-    (at 213.995 81.915 0)
-    (effects (font (size 1.27 1.27) bold) (justify left bottom))
-    (uuid c87253d1-6ca7-46f2-ac6f-159e99dabcbb)
   )
 
   (global_label "RL3" (shape input) (at 212.725 132.715 0) (fields_autoplaced)
@@ -4229,7 +4224,7 @@
     (uuid 0afa5357-c57e-42cd-b476-72d99f39fe9f)
     (property "Reference" "L2" (id 0) (at 35.56 57.15 90))
     (property "Value" "2743021447" (id 1) (at 34.29 55.245 90))
-    (property "Footprint" "Inductor_SMD:L_2512_6332Metric_Pad1.52x3.35mm_HandSolder" (id 2) (at 38.735 60.198 90)
+    (property "Footprint" "Fair-Rite_2743021447:Fair-Rite_2743021447" (id 2) (at 38.735 60.198 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 38.735 58.42 0)
@@ -4358,7 +4353,7 @@
     (uuid 14f06a7d-ac78-4907-9c78-b5c7e405269b)
     (property "Reference" "L3" (id 0) (at 66.675 62.865 90))
     (property "Value" "2743021447" (id 1) (at 64.77 67.945 90))
-    (property "Footprint" "Inductor_SMD:L_2512_6332Metric_Pad1.52x3.35mm_HandSolder" (id 2) (at 69.215 65.913 90)
+    (property "Footprint" "Fair-Rite_2743021447:Fair-Rite_2743021447" (id 2) (at 69.215 65.913 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 69.215 64.135 0)
@@ -5144,7 +5139,7 @@
     (uuid 542cea8d-aff9-4b40-a7cb-e44a542a6722)
     (property "Reference" "L4" (id 0) (at 36.195 62.865 90))
     (property "Value" "2743021447" (id 1) (at 35.56 66.04 90))
-    (property "Footprint" "Inductor_SMD:L_2512_6332Metric_Pad1.52x3.35mm_HandSolder" (id 2) (at 38.735 65.278 90)
+    (property "Footprint" "Fair-Rite_2743021447:Fair-Rite_2743021447" (id 2) (at 38.735 65.278 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 38.735 63.5 0)
@@ -6627,7 +6622,7 @@
     (uuid cba67685-7297-4a97-9b38-4424ffaae1ce)
     (property "Reference" "L1" (id 0) (at 66.675 57.15 90))
     (property "Value" "2743021447" (id 1) (at 69.1769 55.5268 90))
-    (property "Footprint" "Inductor_SMD:L_2512_6332Metric_Pad1.52x3.35mm_HandSolder" (id 2) (at 69.215 60.198 90)
+    (property "Footprint" "Fair-Rite_2743021447:Fair-Rite_2743021447" (id 2) (at 69.215 60.198 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 69.215 58.42 0)
@@ -7551,16 +7546,16 @@
       (reference "J14") (unit 1) (value "MH6") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
     (path "/cba67685-7297-4a97-9b38-4424ffaae1ce"
-      (reference "L1") (unit 1) (value "2743021447") (footprint "Inductor_SMD:L_2512_6332Metric_Pad1.52x3.35mm_HandSolder")
+      (reference "L1") (unit 1) (value "2743021447") (footprint "Fair-Rite_2743021447:Fair-Rite_2743021447")
     )
     (path "/0afa5357-c57e-42cd-b476-72d99f39fe9f"
-      (reference "L2") (unit 1) (value "2743021447") (footprint "Inductor_SMD:L_2512_6332Metric_Pad1.52x3.35mm_HandSolder")
+      (reference "L2") (unit 1) (value "2743021447") (footprint "Fair-Rite_2743021447:Fair-Rite_2743021447")
     )
     (path "/14f06a7d-ac78-4907-9c78-b5c7e405269b"
-      (reference "L3") (unit 1) (value "2743021447") (footprint "Inductor_SMD:L_2512_6332Metric_Pad1.52x3.35mm_HandSolder")
+      (reference "L3") (unit 1) (value "2743021447") (footprint "Fair-Rite_2743021447:Fair-Rite_2743021447")
     )
     (path "/542cea8d-aff9-4b40-a7cb-e44a542a6722"
-      (reference "L4") (unit 1) (value "2743021447") (footprint "Inductor_SMD:L_2512_6332Metric_Pad1.52x3.35mm_HandSolder")
+      (reference "L4") (unit 1) (value "2743021447") (footprint "Fair-Rite_2743021447:Fair-Rite_2743021447")
     )
     (path "/32026461-ff43-45e2-b343-8b73e4507a73"
       (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
