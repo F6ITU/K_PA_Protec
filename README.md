@@ -1,6 +1,6 @@
 # K_PA_Protec
 
-OpenHPSDR P.A. Protection board by LA2NI (Munin 400)
+OpenHPSDR P.A. OpenHPSDR Protection board by LA2NI (Munin 400)
 
 
 ![La carte de protection, périphérique de l'ATU Aries ](https://github.com/F6ITU/K_PA_Protec/blob/main/K_PA_Protec_down.png)
@@ -10,7 +10,7 @@ This protection board is part of a set consisting of a 400 W LD-Mos based RF pow
 a medium power (600 or 1500 W) Zolotarev low pass filter, an Automatic Antenna Tuner (ATU) nickname « Aries » 
 and a 4 port antenna switch.
 
-All these developments are the work and intellectual property of Kjell Karsten LA2NI and Laurence Barker G8NJJ.
+All these developments are the work and intellectual property of Kjell Karlsen LA2NI and Laurence Barker G8NJJ.
 
 This original work can be downloaded from 
 
